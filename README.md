@@ -1,16 +1,16 @@
-# great_places
+# Great Places
 
-A new Flutter project.
+Aplicação desenvovida em Flutter utilizando funções nativas dos dispositivos.
 
-## Getting Started
+A idéia é uma aplicação pessoal para fotografar seus lugares favoritos e marcar sua localização  utilizando api do Google Maps.
 
-This project is a starting point for a Flutter application.
+Para isso, foram utilizas as dependencias:
 
-A few resources to get you started if this is your first Flutter project:
+- Provider -  como gerenciador de estado
+- Image Picker -  para acesso a câmera e galeria do dispositivo
+- SQLite - armazenamento em memória
+- Location - pacote de geolocalização
+- Google Maps Flutter - pacote de geolocalização
+- HTTP - Requisições
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Layout em versão inicial:
