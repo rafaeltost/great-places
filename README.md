@@ -13,4 +13,5 @@ Para isso, foram utilizas as dependencias:
 - Google Maps Flutter - pacote de geolocalização
 - HTTP - Requisições
 
-Layout em versão inicial:
+Versão inicial do layout:
+![projeto nativo](https://user-images.githubusercontent.com/81890027/189035997-515f9105-56ee-43ff-910a-313f70d97b35.jpg)
